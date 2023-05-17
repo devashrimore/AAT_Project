@@ -1,0 +1,30 @@
+.top-nav h6 {
+    background-color: #311d56;
+    color: white;
+    border: 2px #311d56;
+    margin: 5px;
+    padding: 5px;
+    font-size: 0.9rem;
+  }
+
+
+.top-nav{
+    display: flex;
+    justify-content: space-between;
+    color:#fff;
+    background-color: #311d56;
+    
+}
+
+
+.top-nav-heading{
+    margin-left:1%;
+    display:inline-block;
+}
+
+.nav-user-info{
+    margin-right: 1%;
+    display: inline-block;
+}
+
+
